@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Brandon Andrianavalona
 
-<!--
-**brandon0638/brandon0638** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionné par l’informatique, la programmation et les nouvelles technologies  
+🚀 Je développe des projets web, logiciels et mobiles  
+🧠 J’aime apprendre plusieurs langages et explorer différents domaines de l’informatique  
+🔥 Toujours en train d’améliorer mes compétences et de créer de nouveaux projets  
 
-Here are some ideas to get you started:
+> *« Je transforme mes idées en code, mes projets en solutions, et ma passion pour l’informatique en avenir. »*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# ⚡ Langages & Technologies
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+---
+
+# 🛠️ Domaines
+
+- 💻 Développement logiciel
+- 🌐 Développement Web
+- 📱 Applications mobiles
+- 🧠 Algorithmique
+- 🗄️ Bases de données
+- 🎨 UI/UX
+- 🔧 Git & GitHub
+- ⚡ Informatique générale
+
+---
+
+# 🚀 Objectif
+
+Construire des projets innovants, améliorer constamment mes compétences et évoluer dans le monde de la technologie.
+
+---
+
+# 📊 GitHub Stats
+
+![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandon0638&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandon0638&layout=compact&theme=tokyonight)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=brandon0638&theme=tokyonight)
+
+---
+
+# 🌐 Réseaux
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/brandon0638)
+
+---
+
+# ☕ Fun Fact
+
+```c
+while(alive){
+    code();
+    learn();
+    improve();
+}
