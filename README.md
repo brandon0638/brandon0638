@@ -40,26 +40,6 @@ Construire des projets innovants, améliorer constamment mes compétences et év
 
 ---
 
-# 📊 GitHub Stats
-
-![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandon0638&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandon0638&layout=compact&theme=tokyonight)
-
----
-
-# 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=brandon0638&theme=tokyonight)
-
----
-
-# 🌐 Réseaux
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/brandon0638)
-
----
-
 # ☕ Fun Fact
 
 ```c
