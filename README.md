@@ -8,12 +8,10 @@
 
 <br/>
 
-<!-- TYPING SVG : herokuapp + sans emojis dans l'URL -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Etudiant+developpeur+passionne;Java+%7C+PHP+%7C+Python+%7C+Flutter;Toujours+en+train+d'apprendre;Transformer+les+idees+en+code" />
 
 <br/><br/>
 
-<!-- BADGES : simplifié, sans &nbsp; -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=brandon0638&label=Vues+du+profil&color=58a6ff&style=flat-square" />
   <img src="https://img.shields.io/github/followers/brandon0638?label=Abonnes&style=flat-square&color=3fb950" />
@@ -58,16 +56,15 @@
 
 <!-- ════════════════════════════════════════════ -->
 <!--             STATISTIQUES GITHUB             -->
-<!--   theme=github_dark, sans count_private     -->
+<!--   Séparés en 2 requêtes indépendantes       -->
+<!--   top-langs fonctionne toujours             -->
 <!-- ════════════════════════════════════════════ -->
 
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brandon0638&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon0638&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=brandon0638&show_icons=true&theme=github_dark&hide_border=true&locale=fr" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon0638&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -120,6 +117,8 @@
 
 <!-- ════════════════════════════════════════════ -->
 <!--                 ZONE FUN                    -->
+<!--  GIFs : uniquement media.giphy.com          -->
+<!--  (seul domaine accepté par le proxy GitHub) -->
 <!-- ════════════════════════════════════════════ -->
 
 ## 🎮 Zone Fun
@@ -154,11 +153,11 @@ while(vivant) {
 </td>
 <td width="42%" align="center" valign="middle">
 
-<img src="https://media.tenor.com/1yK5x0X0xKAAAAAC/coding.gif" width="230" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="230" />
 
-<br/>
+<br/><br/>
 
-<img src="https://media.tenor.com/2r9qQZ1qkJkAAAAC/programming-code.gif" width="230" />
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230" />
 
 </td>
 </tr>
@@ -181,10 +180,6 @@ while(vivant) {
 </div>
 
 ---
-
-<!-- ════════════════════════════════════════════ -->
-<!--                  FOOTER                     -->
-<!-- ════════════════════════════════════════════ -->
 
 <div align="center">
 
