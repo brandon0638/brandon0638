@@ -48,7 +48,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,javascript,flutter,html,css,mysql,git,github,vscode&theme=dark&perline=13" />
+<img src="https://skillicons.dev/icons?i=c,java,python,php,javascript,flutter,html,css,mysql,git,github,vscode&theme=dark&perline=13" />
 
 </div>
 
@@ -63,8 +63,11 @@
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=brandon0638&show_icons=true&theme=github_dark&hide_border=true&locale=fr" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon0638&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brandon0638&show_icons=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon0638&layout=compact&theme=github_dark" />
 </p>
 
 ---
