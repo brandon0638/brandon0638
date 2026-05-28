@@ -3,7 +3,7 @@
 <h1 align="center">🔥 Brandon Andrianavalona 🔥</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&;Passionné+par+la+programmation+💻;Toujours+en+train+d'apprendre+🚀;Java+•+PHP+•+Python+•+Flutter" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Passionné+par+la+programmation+💻;Toujours+en+train+d'apprendre+🚀;Java+•+PHP+•+Python+•+Flutter" />
 </p>
 
 <p align="center">
