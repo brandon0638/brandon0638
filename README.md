@@ -26,7 +26,7 @@
 # 🚀 À propos de moi
 
 - 🔭 Je travaille sur plusieurs projets personnels
-- 🌱 J’apprends actuellement le PHP/MySQL avancé
+- 🌱 J’apprends actuellement le PHP/MySQL, Java
 - 💡 Intéressé par le développement Web, Logiciel et Mobile
 - ⚡ J’aime résoudre des problèmes algorithmiques
 - 🎯 Objectif : devenir un développeur polyvalent et créer des projets innovants
