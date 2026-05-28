@@ -62,13 +62,13 @@
 
 ## 📊 Statistiques GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=brandon0638&show_icons=true&theme=github_dark" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brandon0638&layout=compact&theme=github_dark" />
-</p>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brandon0638&show_icons=true&theme=github_dark&hide_border=true&icon_color=58a6ff&title_color=58a6ff" />
+&nbsp;
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brandon0638&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff" />
+
+</div>
 
 ---
 
