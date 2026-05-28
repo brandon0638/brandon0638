@@ -36,7 +36,7 @@
 # ⚡ Langages & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,javascript,flutter,html,css,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,php,javascript,flutter,html,css,mysql,git,github,vscode" />
 </p>
 
 ---
