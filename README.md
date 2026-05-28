@@ -1,13 +1,13 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">Brandon Andrianavalona</h1>
+<h1 align="center">🔥 Brandon Andrianavalona 🔥</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Passionné+par+la+programmation;Toujours+en+train+d'apprendre;Java+•+PHP+•+Python+•+Flutter" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650"/>
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@
 # About Me
 
 ```txt
-> Student Developer
-> Web • Software • Mobile
-> Building projects and learning every day
+Student Developer
+Web • Software • Mobile
+Building projects and learning every day
 ```
 
 - Currently learning **PHP / MySQL / Java**
@@ -34,7 +34,7 @@
 # Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,php,javascript,flutter,html,css,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,javascript,flutter,html,css,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -42,9 +42,9 @@
 # GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brandon0638&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brandon0638&show_icons=true&theme=tokyonight&hide_border=true"/>
   
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brandon0638&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon0638&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -83,21 +83,15 @@
 
 ```c
 while(alive){
-
     eat();
-    
     sleep();
-
     code();
-
     debug();
 
-    // why is this not working?
-
+    // still not working...
     fix();
 
     learn();
-
     improve();
 }
 ```
@@ -106,11 +100,11 @@ while(alive){
 
 ---
 
-# Connect
+# Connect With Me
 
 <p align="center">
   <a href="https://github.com/brandon0638">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
