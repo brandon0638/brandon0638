@@ -11,27 +11,27 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brandon0638&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=brandon0638&label=Vues+du+profil&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-# About Me
+# 👋 À propos de moi
 
 ```txt
-Student Developer
-Web • Software • Mobile
-Building projects and learning every day
+Étudiant développeur
+Web • Logiciel • Mobile
+Je construis des projets et j’apprends chaque jour
 ```
 
-- Currently learning **PHP / MySQL / Java**
-- Interested in **Web Development**, **Software Engineering** and **Mobile Apps**
-- Love solving algorithmic problems
-- Goal: become a versatile developer and build innovative projects
+- Actuellement en apprentissage : **PHP / MySQL / Java**
+- Intéressé par le **développement Web, Logiciel et Mobile**
+- J’aime résoudre des problèmes algorithmiques
+- Objectif : devenir un développeur polyvalent et créer des projets innovants
 
 ---
 
-# Tech Stack
+# ⚡ Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,javascript,flutter,html,css,mysql,git,github,vscode" />
@@ -39,7 +39,7 @@ Building projects and learning every day
 
 ---
 
-# GitHub Stats
+# 📊 Statistiques GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brandon0638&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -49,7 +49,7 @@ Building projects and learning every day
 
 ---
 
-# GitHub Streak
+# 🔥 Série GitHub
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=brandon0638&theme=tokyonight&hide_border=true"/>
@@ -57,7 +57,7 @@ Building projects and learning every day
 
 ---
 
-# Activity Graph
+# 📈 Activité GitHub
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=brandon0638&theme=tokyo-night&hide_border=true"/>
@@ -65,7 +65,7 @@ Building projects and learning every day
 
 ---
 
-# Contribution Snake
+# 🐍 Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -73,26 +73,30 @@ Building projects and learning every day
 
 ---
 
-# Fun Zone
+# 🎮 Zone Fun
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" />
+
+  <img src="https://img.shields.io/badge/Code-Always%20On-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Coffee-Required-brown?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bugs-Found%20%3F-red?style=for-the-badge"/>
+
 </p>
 
 <div align="center">
 
 ```c
-while(alive){
-    eat();
-    sleep();
-    code();
-    debug();
+while(vivant){
+    manger();
+    dormir();
+    coder();
+    déboguer();
 
-    // still not working...
-    fix();
+    // pourquoi ça ne marche pas ?
 
-    learn();
-    improve();
+    corriger();
+    apprendre();
+    progresser();
 }
 ```
 
@@ -100,7 +104,7 @@ while(alive){
 
 ---
 
-# Connect With Me
+# 🌐 Me contacter
 
 <p align="center">
   <a href="https://github.com/brandon0638">
@@ -111,5 +115,5 @@ while(alive){
 ---
 
 <p align="center">
-  <i>"Turning ideas into code."</i>
+  <i>"Transformer les idées en code."</i>
 </p>
