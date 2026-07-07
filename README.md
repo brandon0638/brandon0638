@@ -70,19 +70,6 @@
 
 ---
 
-<!-- ════════════════════════════════════════════ -->
-<!--                 STREAK GITHUB                    -->
-<!-- ════════════════════════════════════════════ -->
-
-## 🔥 Streak GitHub
-
-<div align="center">
-
-<img src="https://git-streak-stats.vercel.app/?user=brandon0638&theme=tokyonight&hide_border=true&locale=fr" />
-
-</div>
-
----
 
 <!-- ════════════════════════════════════════════ -->
 <!--                ACTIVITÉ GITHUB                  -->
