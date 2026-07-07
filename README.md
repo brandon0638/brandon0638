@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ════════════════════════════════════════════ -->
-<!--                   HEADER                    -->
+<!--                HEADER                      -->
 <!-- ════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=200&section=header&text=Brandon%20Andrianavalona&fontSize=42&fontColor=58a6ff&fontAlignY=40&desc=Etudiant%20Developpeur%20%7C%20Web%20%7C%20Mobile%20%7C%20Logiciel&descAlignY=60&descSize=17&descColor=8b949e&animation=fadeIn"/>
@@ -41,7 +41,7 @@
 ---
 
 <!-- ════════════════════════════════════════════ -->
-<!--               TECHNOLOGIES                  -->
+<!--                TECHNOLOGIES                  -->
 <!-- ════════════════════════════════════════════ -->
 
 ## ⚡ Technologies
@@ -55,25 +55,23 @@
 ---
 
 <!-- ════════════════════════════════════════════ -->
-<!--             STATISTIQUES GITHUB             -->
-<!--   Séparés en 2 requêtes indépendantes       -->
-<!--   top-langs fonctionne toujours             -->
+<!--                STATISTIQUES GITHUB              -->
 <!-- ════════════════════════════════════════════ -->
 
 ## 📊 Statistiques GitHub
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brandon0638&show_icons=true&theme=github_dark&hide_border=true&icon_color=58a6ff&title_color=58a6ff" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=brandon0638&show_icons=true&theme=github_dark&hide_border=true&icon_color=58a6ff&title_color=58a6ff&count_private=true" />
 &nbsp;
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brandon0638&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon0638&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff" />
 
 </div>
 
 ---
 
 <!-- ════════════════════════════════════════════ -->
-<!--              STREAK GITHUB                  -->
+<!--                 STREAK GITHUB                    -->
 <!-- ════════════════════════════════════════════ -->
 
 ## 🔥 Streak GitHub
@@ -87,7 +85,7 @@
 ---
 
 <!-- ════════════════════════════════════════════ -->
-<!--             ACTIVITÉ GITHUB                 -->
+<!--                ACTIVITÉ GITHUB                  -->
 <!-- ════════════════════════════════════════════ -->
 
 ## 📈 Activité
@@ -101,7 +99,7 @@
 ---
 
 <!-- ════════════════════════════════════════════ -->
-<!--              SERPENT CONTRIBUTIONS          -->
+<!--              SERPENT CONTRIBUTIONS            -->
 <!-- ════════════════════════════════════════════ -->
 
 ## 🐍 Contributions
@@ -119,9 +117,7 @@
 ---
 
 <!-- ════════════════════════════════════════════ -->
-<!--                 ZONE FUN                    -->
-<!--  GIFs : uniquement media.giphy.com          -->
-<!--  (seul domaine accepté par le proxy GitHub) -->
+<!--                  ZONE FUN                    -->
 <!-- ════════════════════════════════════════════ -->
 
 ## 🎮 Zone Fun
@@ -151,43 +147,3 @@ while(vivant) {
     progresser();  // 🚀
     // TODO: comprendre ce qui marche
 }
-```
-
-</td>
-<td width="42%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="230" />
-
-<br/><br/>
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230" />
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ════════════════════════════════════════════ -->
-<!--                  CONTACT                    -->
-<!-- ════════════════════════════════════════════ -->
-
-## 🌐 Contact
-
-<div align="center">
-
-<a href="https://github.com/brandon0638">
-  <img src="https://img.shields.io/badge/GitHub-brandon0638-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&pause=3000&color=8B949E&center=true&vCenter=true&width=500&lines=Transformer+les+idees+en+code" />
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=100&section=footer&animation=fadeIn"/>
