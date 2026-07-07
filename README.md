@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- ════════════════════════════════════════════ -->
-<!--                HEADER                      -->
-<!-- ════════════════════════════════════════════ -->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=200&section=header&text=Brandon%20Andrianavalona&fontSize=42&fontColor=58a6ff&fontAlignY=40&desc=Etudiant%20Developpeur%20%7C%20Web%20%7C%20Mobile%20%7C%20Logiciel&descAlignY=60&descSize=17&descColor=8b949e&animation=fadeIn"/>
 
 <br/>
@@ -21,10 +17,6 @@
 
 ---
 
-<!-- ════════════════════════════════════════════ -->
-<!--                À PROPOS DE MOI              -->
-<!-- ════════════════════════════════════════════ -->
-
 ## 👨‍💻 À propos de moi
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270"/>
@@ -40,10 +32,6 @@
 
 ---
 
-<!-- ════════════════════════════════════════════ -->
-<!--                TECHNOLOGIES                  -->
-<!-- ════════════════════════════════════════════ -->
-
 ## ⚡ Technologies
 
 <div align="center">
@@ -54,25 +42,17 @@
 
 ---
 
-<!-- ════════════════════════════════════════════ -->
-<!--                STATISTIQUES GITHUB              -->
-<!-- ════════════════════════════════════════════ -->
-
 ## 📊 Statistiques GitHub
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=brandon0638&show_icons=true&theme=github_dark&hide_border=true&icon_color=58a6ff&title_color=58a6ff&count_private=true" />
+<img height="170em" src="https://github-readme-stats-one-bice.vercel.app/api?username=brandon0638&show_icons=true&theme=github_dark&hide_border=true&icon_color=58a6ff&title_color=58a6ff&count_private=true" />
 &nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon0638&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff" />
+<img height="170em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=brandon0638&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff" />
 
 </div>
 
 ---
-
-<!-- ════════════════════════════════════════════ -->
-<!--                 STREAK GITHUB                    -->
-<!-- ════════════════════════════════════════════ -->
 
 ## 🔥 Streak GitHub
 
@@ -84,10 +64,6 @@
 
 ---
 
-<!-- ════════════════════════════════════════════ -->
-<!--                ACTIVITÉ GITHUB                  -->
-<!-- ════════════════════════════════════════════ -->
-
 ## 📈 Activité
 
 <div align="center">
@@ -97,10 +73,6 @@
 </div>
 
 ---
-
-<!-- ════════════════════════════════════════════ -->
-<!--              SERPENT CONTRIBUTIONS            -->
-<!-- ════════════════════════════════════════════ -->
 
 ## 🐍 Contributions
 
@@ -115,10 +87,6 @@
 </div>
 
 ---
-
-<!-- ════════════════════════════════════════════ -->
-<!--                  ZONE FUN                    -->
-<!-- ════════════════════════════════════════════ -->
 
 ## 🎮 Zone Fun
 
