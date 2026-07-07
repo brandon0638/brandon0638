@@ -1,5 +1,9 @@
 <div align="center">
 
+<!-- ════════════════════════════════════════════ -->
+<!--                HEADER                      -->
+<!-- ════════════════════════════════════════════ -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=200&section=header&text=Brandon%20Andrianavalona&fontSize=42&fontColor=58a6ff&fontAlignY=40&desc=Etudiant%20Developpeur%20%7C%20Web%20%7C%20Mobile%20%7C%20Logiciel&descAlignY=60&descSize=17&descColor=8b949e&animation=fadeIn"/>
 
 <br/>
@@ -17,6 +21,10 @@
 
 ---
 
+<!-- ════════════════════════════════════════════ -->
+<!--                À PROPOS DE MOI              -->
+<!-- ════════════════════════════════════════════ -->
+
 ## 👨‍💻 À propos de moi
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270"/>
@@ -32,6 +40,10 @@
 
 ---
 
+<!-- ════════════════════════════════════════════ -->
+<!--                TECHNOLOGIES                  -->
+<!-- ════════════════════════════════════════════ -->
+
 ## ⚡ Technologies
 
 <div align="center">
@@ -41,6 +53,10 @@
 </div>
 
 ---
+
+<!-- ════════════════════════════════════════════ -->
+<!--                STATISTIQUES GITHUB              -->
+<!-- ════════════════════════════════════════════ -->
 
 ## 📊 Statistiques GitHub
 
@@ -54,25 +70,37 @@
 
 ---
 
+<!-- ════════════════════════════════════════════ -->
+<!--                 STREAK GITHUB                    -->
+<!-- ════════════════════════════════════════════ -->
+
 ## 🔥 Streak GitHub
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=brandon0638&theme=tokyonight&hide_border=true&locale=fr" />
+<img src="https://git-streak-stats.vercel.app/?user=brandon0638&theme=tokyonight&hide_border=true&locale=fr" />
 
 </div>
 
 ---
+
+<!-- ════════════════════════════════════════════ -->
+<!--                ACTIVITÉ GITHUB                  -->
+<!-- ════════════════════════════════════════════ -->
 
 ## 📈 Activité
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=brandon0638&theme=tokyo-night&hide_border=true&area=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=brandon0638&theme=tokyo-night&hide_border=true&area=true&custom_title=Mon%20Activité%20de%20Code" />
 
 </div>
 
 ---
+
+<!-- ════════════════════════════════════════════ -->
+<!--              SERPENT CONTRIBUTIONS            -->
+<!-- ════════════════════════════════════════════ -->
 
 ## 🐍 Contributions
 
@@ -87,6 +115,10 @@
 </div>
 
 ---
+
+<!-- ════════════════════════════════════════════ -->
+<!--                  ZONE FUN                    -->
+<!-- ════════════════════════════════════════════ -->
 
 ## 🎮 Zone Fun
 
