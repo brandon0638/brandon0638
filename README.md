@@ -54,21 +54,6 @@
 
 ---
 
-<!-- ════════════════════════════════════════════ -->
-<!--                STATISTIQUES GITHUB              -->
-<!-- ════════════════════════════════════════════ -->
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats-one-bice.vercel.app/api?username=brandon0638&show_icons=true&theme=github_dark&hide_border=true&icon_color=58a6ff&title_color=58a6ff&count_private=true" />
-&nbsp;
-<img height="170em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=brandon0638&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff" />
-
-</div>
-
----
 
 
 <!-- ════════════════════════════════════════════ -->
