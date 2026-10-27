@@ -53,11 +53,17 @@ Hey! I'm **Brandon**, a computer science student from Madagascar 🇲🇬.
 
 ## 📊 GitHub Activity
 
+
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=brandon0638&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Coding%20Journey" alt="GitHub activity graph"/>
+<a href="https://github.com/brandon0638">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=brandon0638&bg_color=0d1117&color=60a5fa&line=3b82f6&point=ffffff&area=true&hide_border=true&custom_title=My%20Coding%20Journey" alt="GitHub Activity Graph"/>
+
+</a>
 
 </div>
+
 
 ---
 
