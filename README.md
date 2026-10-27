@@ -1,121 +1,103 @@
-<div align="center">
+ <div align="center">
 
-<!-- ════════════════════════════════════════════ -->
-<!--                HEADER                      -->
-<!-- ════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:172554,100:0d1117&height=180&section=header&text=Brandon%20Andrianavalona&fontSize=36&fontColor=60a5fa&fontAlignY=38&desc=Developer%20in%20Progress%20%7C%20Building%20My%20Own%20Path&descAlignY=60&descSize=14&descColor=cbd5e1"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=200&section=header&text=Brandon%20Andrianavalona&fontSize=42&fontColor=58a6ff&fontAlignY=40&desc=Etudiant%20Developpeur%20%7C%20Web%20%7C%20Mobile%20%7C%20Logiciel&descAlignY=60&descSize=17&descColor=8b949e&animation=fadeIn"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Code.+Learn.+Improve.;Java+%7C+Python+%7C+C%2B%2B+%7C+PHP;One+project+at+a+time.;My+next+level+starts+here." alt="Typing SVG"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Etudiant+developpeur+passionne;Java+%7C+PHP+%7C+Python+%7C+Flutter;Toujours+en+train+d'apprendre;Transformer+les+idees+en+code" />
-
-<br/><br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brandon0638&label=Vues+du+profil&color=58a6ff&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/brandon0638?label=Abonnes&style=flat-square&color=3fb950" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=brandon0638&style=flat-square&color=2563eb&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/brandon0638?style=flat-square&color=1d4ed8&label=FOLLOWERS" alt="Followers"/>
 </p>
 
 </div>
 
 ---
 
-<!-- ════════════════════════════════════════════ -->
-<!--                À PROPOS DE MOI              -->
-<!-- ════════════════════════════════════════════ -->
+## 🌙 About Me
 
-## 👨‍💻 À propos de moi
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation"/>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270"/>
+Hey! I'm **Brandon**, a computer science student from Madagascar 🇲🇬.
 
-- 🎓 Étudiant développeur
-- 🌐 Web • 🖥️ Logiciel • 📱 Mobile
-- 📖 En apprentissage : **PHP / MySQL / Java**
-- 🧩 Passion : **algorithmique & création de projets**
-- 🎯 Objectif : devenir **développeur polyvalent**
-- 📍 Madagascar 🌍
+- 💻 Interested in software, web and mobile development
+- 🧠 Passionate about programming and problem-solving
+- 🛠️ Learning by building real projects
+- 🎯 Goal: become a versatile software developer
+- 🎮 Dream: contribute to building a video game company in Madagascar
+- 🍥 Anime fan — Naruto & Kuroko no Basket
 
 <br clear="right"/>
 
 ---
 
-<!-- ════════════════════════════════════════════ -->
-<!--                TECHNOLOGIES                  -->
-<!-- ════════════════════════════════════════════ -->
-
-## ⚡ Technologies
+## ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,java,python,php,javascript,flutter,html,css,mysql,git,github,vscode&theme=dark&perline=13" />
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,javascript&theme=dark" alt="Programming languages"/>
+
+**Web, Mobile & Database**
+
+<img src="https://skillicons.dev/icons?i=html,css,vue,flutter,mysql,postgres&theme=dark" alt="Web, mobile and database technologies"/>
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux&theme=dark" alt="Development tools"/>
 
 </div>
 
 ---
 
+## 🚀 Featured Projects
 
+| Project | Description | Technologies |
+|---|---|---|
+| **Reko** | Offline voice reminder application | Python |
+| **CV Web App** | Interactive CV creation and editing | Vue.js |
+| **SI Gestion** | Enterprise management application | Java, Spring, Vue.js, SQL |
 
-<!-- ════════════════════════════════════════════ -->
-<!--                ACTIVITÉ GITHUB                  -->
-<!-- ════════════════════════════════════════════ -->
+*Explore my repositories to discover my code and progress.*
 
-## 📈 Activité
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=brandon0638&theme=tokyo-night&hide_border=true&area=true&custom_title=Mon%20Activité%20de%20Code" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=brandon0638&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Coding%20Journey" alt="GitHub activity graph"/>
 
 </div>
 
 ---
 
-<!-- ════════════════════════════════════════════ -->
-<!--              SERPENT CONTRIBUTIONS            -->
-<!-- ════════════════════════════════════════════ -->
-
-## 🐍 Contributions
+## 🐍 Contribution Journey
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+<img width="95%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
 
 </div>
 
 ---
 
-<!-- ════════════════════════════════════════════ -->
-<!--                  ZONE FUN                    -->
-<!-- ════════════════════════════════════════════ -->
-
-## 🎮 Zone Fun
-
-<table>
-<tr>
-<td width="58%" valign="top">
+## 🎴 My Philosophy
 
 <div align="center">
-<img src="https://img.shields.io/badge/Code-Always%20On-58a6ff?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Coffee-Required-brown?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Bugs-Fix%20later-red?style=for-the-badge&logo=bugsnag&logoColor=white"/>
+
+*“Every master was once a beginner.”*
+
+**Train like a ninja. Think like a strategist. Code like a creator.**
+
 </div>
 
-<br/>
+---
 
-```c
-while(vivant) {
-    manger();      // 🍚
-    dormir();      // 😴 (optionnel)
-    coder();       // 💻 mode focus
-    debugger();    // 🐛 "pourquoi !?"
-    corriger();    // ✅ enfin !
-    apprendre();   // 📚
-    progresser();  // 🚀
-    // TODO: comprendre ce qui marche
-}
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-1d4ed8?style=for-the-badge" alt="Learning and building status"/>
+
+**One day, one project, one level up.** 🌌
+
+</div>
