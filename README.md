@@ -48,17 +48,6 @@ Hey! I'm **Brandon**, a computer science student from Madagascar 🇲🇬.
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| **Reko** | Offline voice reminder application | Python |
-| **CV Web App** | Interactive CV creation and editing | Vue.js |
-| **SI Gestion** | Enterprise management application | Java, Spring, Vue.js, SQL |
-
-*Explore my repositories to discover my code and progress.*
 
 ---
 
